@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/soundtech-pro/static/css/main.80ae46d5.css",
+    "main.js": "/soundtech-pro/static/js/main.153ce2e4.js",
+    "static/js/453.52fa0ca1.chunk.js": "/soundtech-pro/static/js/453.52fa0ca1.chunk.js",
+    "index.html": "/soundtech-pro/index.html",
+    "main.80ae46d5.css.map": "/soundtech-pro/static/css/main.80ae46d5.css.map",
+    "main.153ce2e4.js.map": "/soundtech-pro/static/js/main.153ce2e4.js.map",
+    "453.52fa0ca1.chunk.js.map": "/soundtech-pro/static/js/453.52fa0ca1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80ae46d5.css",
+    "static/js/main.153ce2e4.js"
+  ]
+}
